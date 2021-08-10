@@ -1,2 +1,2 @@
 # Competitive-Programming
-This repository contains the solutions of some competitive programming problems.
+This repository contains my solutions (organized by the data structure/algorithm used) to some competitive programming problems 
